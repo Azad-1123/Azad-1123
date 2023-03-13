@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Azad-1123
-- 👀 I’m interested in ...physics ,coding,astronomy,arduino
-- 🌱 I’m currently learning ... arduino ,java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Azad Rajeev
+- 👀 I’m interested in physics⚛️ ,coding💻(arduino,c,c++)
+- 🌱 I’m currently learning ... Java ,python,Ethical hacking
 - 📫 How to reach me ... contact me email:azadrajeev1123@gmail.com
 
 <!---
